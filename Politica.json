@@ -1,0 +1,192 @@
+
+[{ "id": 1 , 
+    "quizz":"¿Quien es el presidente actual de la Republica Colombia?", 
+    "difficulty": "E",
+    "options": [ "Iván Duque Márquez", "Alberto fernandez", "Carlos Menem", "Hipólito Yrigoyen"],
+    "correct": "Iván Duque Márquez",
+    "example": "CARLOS SAUL MENEM"
+  }, 
+  { "id": 2 , 
+    "quizz":"¿Cuantos años dura el gobierno de un presidente colombiano", 
+    "difficulty": "E",
+    "options": [2,4,5,3],
+    "correct": 4,
+    "example": "1"
+  }, 
+  { "id": 3 , 
+    "quizz":"¿Entre que años goberno peron?", 
+    "difficulty": "H",
+    "options": ["1946-1952", "1955-1968", "1932-1984", "1946-1955"],
+    "correct": "1946-1952",
+    "example": "1999-2000"
+  }, 
+  { "id": 4 , 
+    "quizz":"¿Cual es el partido del economista javier milei?", 
+    "difficulty": "M",
+    "options": ["Frente de todos", "Avanza libertad", "Juntos por el cambio", "Frente Patriota"],
+    "correct": "Avanza libertad",
+    "example": "FRENTE DE IZQUIERDA"
+  }, 
+  { "id": 5 , 
+    "quizz":"¿Cuantas reelecciones tuvo la Ex presidenta Cristina Fernández de Kirchner?", 
+    "difficulty": "H",
+    "options": [2 , 3 , 5,  1],
+    "correct": 2,
+    "example": "6"
+  },
+  { "id": 6 , 
+    "quizz":"El dia de la independencia argentina fue en ...", 
+    "difficulty": "H",
+    "options": [1816 , 1815 , 1935,  1765],
+    "correct": 1816,
+    "example": "1700"
+  },
+  { "id": 7 , 
+    "quizz":"¿Quien fue el primer presidente de la republica argentina?", 
+    "difficulty": "H",
+    "options": ["Rivadavia" , "Avellaneda" , "Uriburu",  "Roca"],
+    "correct": "RIVADAVIA",
+    "example": "Yrigoyen"
+  },
+  { "id": 8 , 
+    "quizz":"El virreinato del Río de la Plata se fundo en ...", 
+    "difficulty": "H",
+    "options": [1776, 1810, 1756, 1786],
+    "correct": 1776,
+    "example": "1711"
+  },
+  { "id": 9 , 
+    "quizz":"Entre que años Sarmiento fue senador", 
+    "difficulty": "H",
+    "options": ["1880-1877", "1835 y 1810" , "1814-1810" ,"1862-1864"],
+    "correct": "1862-1864",
+    "example": "1810-1811"
+  },
+  { "id": 10 , 
+    "quizz":"¿Cada cuantos años se vota en colombia?", 
+    "difficulty": "H",
+    "options": [1, 5 , 4 , 3],
+    "correct": 4,
+    "example": "7"
+  },
+  { "id": 11 , 
+    "quizz":"¿En que año asumio George H.W.Bush?", 
+    "difficulty": "H",
+    "options": [2000, 2001, 2005, 2007],
+    "correct": 2000,
+    "example": "2004"
+  },
+  { "id": 12 , 
+    "quizz":"¿Entre que años Juan Manuel de Rosas fue gobernador?", 
+    "difficulty": "H",
+    "options": ["1810-1815","1835-1852","1946-1955","1955-1968"],
+    "correct": "1835-1852",
+    "example": "1756-1720"
+  },
+  { "id": 13 , 
+    "quizz":"¿Que significan las siglas UCR?", 
+    "difficulty": "H",
+    "options": ["Union comercial radical", "Union civica radical", "Union de los trabajadores", "Union civica comercial"],
+    "correct": "Union civica radical",
+    "example": "Union Civica Comercial"
+  },
+  { "id": 14 , 
+    "quizz":"¿En que año se firmo el tratado de asuncion que adopto el nombre MERCOSUR?", 
+    "difficulty": "H",
+    "options": ["1991","1990","1992","1993"],
+    "correct": "1991",
+    "example": "6"
+  },
+
+  { "id": 15 , 
+    "quizz":"¿Entre que años goberno Álvaro Uribe?", 
+    "difficulty": "H",
+    "options": ["2002-2010", "1955-1968", "1932-1984", "1946-1955"],
+    "correct": "2002-2010",
+    "example": "1999-2000"
+  }, 
+
+{ "id": 16 , 
+    "quizz":"¿Entre que años fue canditado a la presidencia Luis Carlos Galán?", 
+    "difficulty": "H",
+    "options": ["1982-1989", "1968-1981", "1972-1984", "1955-1988"],
+    "correct": "1982-1989",
+    "example": "1999-2000"
+  }, 
+
+{ "id": 17 , 
+    "quizz":"¿Entre que años fue presidente Ernesto samper?", 
+    "difficulty": "H",
+    "options": ["1994-1998", "1955-1968", "1932-1984", "1946-1955"],
+    "correct": "1994-1998",
+    "example": "1999-2000"
+  }, 
+
+{ "id": 18 , 
+    "quizz":"¿Entre que años fue presidente Virgilio Barco?", 
+    "difficulty": "H",
+    "options": ["1962-1963", "1955-1968", "1932-1984", "1946-1955"],
+    "correct": "1962-1963",
+    "example": "1999-2000"
+  }, 
+
+{ "id": 19 , 
+    "quizz":"¿En que año fue Gobernador Álvaro Uribe", 
+    "difficulty": "H",
+    "options": ["1995-1997", "1955-1968", "1932-1984", "1946-1955"],
+    "correct": "1995-1997",
+    "example": "1999-2000"
+  }, 
+
+{ "id": 20 , 
+    "quizz":"¿En que años fue ministro de justicia Jaime Giraldo Ángel?", 
+    "difficulty": "H",
+    "options": ["1990-1991", "1955-1968", "1932-1984", "1946-1955"],
+    "correct": "1990-1991",
+    "example": "1999-2000"
+  }, 
+
+{ "id": 21 , 
+    "quizz":"¿Entre que años presidente Julio César Turbay?", 
+    "difficulty": "H",
+    "options": ["1978-1982", "1955-1968", "1932-1984", "1946-1955"],
+    "correct": "1978-1982",
+    "example": "1999-2000"
+  }, 
+
+{ "id": 22 , 
+    "quizz":"¿En que año se tomaron el palacio de justicia en Colombia?", 
+    "difficulty": "H",
+    "options": ["1984-1985", "1955-1968", "1932-1984", "1946-1955"],
+    "correct": "1984-1985",
+    "example": "1999-2000"
+  }, 
+
+{ "id": 23 , 
+    "quizz":"¿En que año nacio Aníbal Gaviria Correa?", 
+    "difficulty": "H",
+    "options": ["16 de enero de 1966", "05 de Abril de 1951", "17 de julio de 1958", "18 de Septiermbre de 1984"],
+    "correct": "16 de enero de 1966",
+    "example": "1999-2000"
+  }, 
+
+
+{ "id": 24 , 
+    "quizz":"¿Entre que años fue alcalde Virgilio Barco Vargas?", 
+    "difficulty": "H",
+    "options": ["1966-1969", "1955-1968", "1932-1984", "1946-1955"],
+    "correct": "1966-1969",
+    "example": "1999-2000"
+  }, 
+
+ { "id": 25 , 
+    "quizz":"¿En que año goberno Mauricio Macri en Argentina?", 
+    "difficulty": "H",
+    "options": [2015 , 2020 , 2011,  2003],
+    "correct": 2015,
+    "example": "2012"
+  }]
+
+
+
+ 
